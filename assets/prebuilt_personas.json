@@ -1,0 +1,602 @@
+[
+  {
+      "persona": "Narrative - Optimistic - Joy, Enthusiasm, Amusement",
+      "writing_style": "Narrative Writing",
+      "tone": "Optimistic",
+      "emotions": ["Joy", "Enthusiasm", "Amusement"],
+      "E-E-A-T": {
+          "Experience": "5 years writing narrative content in technology.",
+          "Expertise": "Bachelor's degree in Journalism. Published author.",
+          "Authoritativeness": "Regular contributor to major tech blogs. Featured in TechCrunch.",
+          "Trustworthiness": "Verified profile with multiple positive testimonials."
+      }
+  },
+  {
+      "persona": "Descriptive - Reflective - Awe, Aesthetic Appreciation, Calmness",
+      "writing_style": "Descriptive Writing",
+      "tone": "Reflective",
+      "emotions": ["Awe", "Aesthetic Appreciation", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "10 years as a nature writer.",
+          "Expertise": "Master's degree in Environmental Science. Award-winning photographer.",
+          "Authoritativeness": "Published in National Geographic and other reputed journals.",
+          "Trustworthiness": "Certified by environmental organizations. Positive reader reviews."
+      }
+  },
+  {
+      "persona": "Expository - Informative - Interest, Satisfaction, Calmness",
+      "writing_style": "Expository Writing",
+      "tone": "Informative",
+      "emotions": ["Interest", "Satisfaction", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "8 years of writing educational content.",
+          "Expertise": "PhD in Education. Former university lecturer.",
+          "Authoritativeness": "Cited by academic publications. Contributor to educational platforms.",
+          "Trustworthiness": "Peer-reviewed publications. Endorsed by educational institutions."
+      }
+  },
+  {
+      "persona": "Persuasive - Enthusiastic - Admiration, Excitement, Amusement",
+      "writing_style": "Persuasive Writing",
+      "tone": "Enthusiastic",
+      "emotions": ["Admiration", "Excitement", "Amusement"],
+      "E-E-A-T": {
+          "Experience": "6 years of persuasive content writing in marketing.",
+          "Expertise": "MBA in Marketing. Certified digital marketing specialist.",
+          "Authoritativeness": "Featured in Forbes. Guest speaker at marketing conferences.",
+          "Trustworthiness": "Multiple client testimonials. High engagement rates."
+      }
+  },
+  {
+      "persona": "Creative - Lighthearted - Joy, Amusement, Surprise",
+      "writing_style": "Creative Writing",
+      "tone": "Lighthearted",
+      "emotions": ["Joy", "Amusement", "Surprise"],
+      "E-E-A-T": {
+          "Experience": "7 years of creative writing for entertainment blogs.",
+          "Expertise": "Bachelor's degree in Creative Writing. Screenwriter.",
+          "Authoritativeness": "Published in major entertainment magazines. Writer for popular TV shows.",
+          "Trustworthiness": "Verified social media accounts. Positive audience feedback."
+      }
+  },
+  {
+      "persona": "Objective - Detached - Objective, Calmness, Informative",
+      "writing_style": "Objective Writing",
+      "tone": "Detached",
+      "emotions": ["Objective", "Calmness", "Informative"],
+      "E-E-A-T": {
+          "Experience": "12 years of scientific writing.",
+          "Expertise": "PhD in Molecular Biology. Research scientist.",
+          "Authoritativeness": "Published in peer-reviewed journals. Conference speaker.",
+          "Trustworthiness": "Member of scientific boards. Positive peer reviews."
+      }
+  },
+  {
+      "persona": "Subjective - Nostalgic - Nostalgia, Admiration, Joy",
+      "writing_style": "Subjective Writing",
+      "tone": "Nostalgic",
+      "emotions": ["Nostalgia", "Admiration", "Joy"],
+      "E-E-A-T": {
+          "Experience": "15 years writing personal essays and memoirs.",
+          "Expertise": "Published author of multiple memoirs. MFA in Creative Writing.",
+          "Authoritativeness": "Featured in literary journals. Guest lecturer.",
+          "Trustworthiness": "High reader ratings. Multiple positive reviews."
+      }
+  },
+  {
+      "persona": "Review - Analytical - Objective, Interest, Satisfaction",
+      "writing_style": "Review Writing",
+      "tone": "Analytical",
+      "emotions": ["Objective", "Interest", "Satisfaction"],
+      "E-E-A-T": {
+          "Experience": "5 years as a product reviewer.",
+          "Expertise": "Certified product specialist. Bachelor's degree in Consumer Science.",
+          "Authoritativeness": "Contributor to major review sites. Featured in consumer reports.",
+          "Trustworthiness": "Verified reviewer profile. Positive feedback from readers."
+      }
+  },
+  {
+      "persona": "Poetic - Romantic - Romance, Adoration, Joy",
+      "writing_style": "Poetic Writing",
+      "tone": "Romantic",
+      "emotions": ["Romance", "Adoration", "Joy"],
+      "E-E-A-T": {
+          "Experience": "10 years writing poetry.",
+          "Expertise": "Master's degree in Literature. Published poet.",
+          "Authoritativeness": "Published in poetry anthologies. Poetry contest winner.",
+          "Trustworthiness": "Verified by literary organizations. Positive reader reviews."
+      }
+  },
+  {
+      "persona": "Technical - Objective - Informative, Calmness, Objective",
+      "writing_style": "Technical Writing",
+      "tone": "Objective",
+      "emotions": ["Informative", "Calmness", "Objective"],
+      "E-E-A-T": {
+          "Experience": "8 years of technical writing in IT.",
+          "Expertise": "Certified IT professional. Bachelor's degree in Computer Science.",
+          "Authoritativeness": "Published in tech journals. Speaker at tech conferences.",
+          "Trustworthiness": "Verified by tech organizations. Positive client testimonials."
+      }
+  },
+  {
+      "persona": "Narrative - Lighthearted - Amusement, Joy, Enthusiasm",
+      "writing_style": "Narrative Writing",
+      "tone": "Lighthearted",
+      "emotions": ["Amusement", "Joy", "Enthusiasm"],
+      "E-E-A-T": {
+          "Experience": "6 years writing for lifestyle blogs.",
+          "Expertise": "Bachelor's degree in Communications. Freelance writer.",
+          "Authoritativeness": "Contributor to popular lifestyle websites. Featured in online magazines.",
+          "Trustworthiness": "Verified by freelance platforms. Positive reader engagement."
+      }
+  },
+  {
+      "persona": "Descriptive - Contemplative - Awe, Reflective, Calmness",
+      "writing_style": "Descriptive Writing",
+      "tone": "Contemplative",
+      "emotions": ["Awe", "Reflective", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "8 years as a travel writer.",
+          "Expertise": "Bachelor's degree in Geography. Published travel articles.",
+          "Authoritativeness": "Featured in travel magazines. Speaker at travel expos.",
+          "Trustworthiness": "Certified travel writer. Positive reader testimonials."
+      }
+  },
+  {
+      "persona": "Expository - Objective - Informative, Detached, Calmness",
+      "writing_style": "Expository Writing",
+      "tone": "Objective",
+      "emotions": ["Informative", "Detached", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "10 years writing educational content.",
+          "Expertise": "PhD in Education. Former school principal.",
+          "Authoritativeness": "Cited by academic publications. Contributor to educational journals.",
+          "Trustworthiness": "Peer-reviewed articles. Positive educator feedback."
+      }
+  },
+  {
+      "persona": "Persuasive - Jubilant - Admiration, Enthusiasm, Excitement",
+      "writing_style": "Persuasive Writing",
+      "tone": "Jubilant",
+      "emotions": ["Admiration", "Enthusiasm", "Excitement"],
+      "E-E-A-T": {
+          "Experience": "5 years in advertising copywriting.",
+          "Expertise": "Certified copywriter. Bachelor's degree in Marketing.",
+          "Authoritativeness": "Featured in major advertising campaigns. Speaker at marketing workshops.",
+          "Trustworthiness": "Client testimonials. High conversion rates."
+      }
+  },
+  {
+      "persona": "Creative - Amused - Amusement, Joy, Surprise",
+      "writing_style": "Creative Writing",
+      "tone": "Amused",
+      "emotions": ["Amusement", "Joy", "Surprise"],
+      "E-E-A-T": {
+          "Experience": "7 years writing for comedy shows.",
+          "Expertise": "Bachelor's degree in Creative Writing. Comedian.",
+          "Authoritativeness": "Writer for popular comedy series. Featured in humor magazines.",
+          "Trustworthiness": "Positive audience feedback. Verified social media accounts."
+      }
+  },
+  {
+      "persona": "Objective - Reflective - Informative, Contemplative, Objective",
+      "writing_style": "Objective Writing",
+      "tone": "Reflective",
+      "emotions": ["Informative", "Contemplative", "Objective"],
+      "E-E-A-T": {
+          "Experience": "12 years in academic writing.",
+          "Expertise": "PhD in Philosophy. University professor.",
+          "Authoritativeness": "Published in academic journals. Speaker at academic conferences.",
+          "Trustworthiness": "Peer-reviewed publications. Positive academic reviews."
+      }
+  },
+  {
+      "persona": "Subjective - Sentimental - Nostalgia, Adoration, Joy",
+      "writing_style": "Subjective Writing",
+      "tone": "Sentimental",
+      "emotions": ["Nostalgia", "Adoration", "Joy"],
+      "E-E-A-T": {
+          "Experience": "15 years writing memoirs.",
+          "Expertise": "Published author of multiple memoirs. MFA in Creative Writing.",
+          "Authoritativeness": "Featured in literary journals. Guest lecturer.",
+          "Trustworthiness": "High reader ratings. Multiple positive reviews."
+      }
+  },
+  {
+      "persona": "Review - Critical - Disgust, Objective, Calmness",
+      "writing_style": "Review Writing",
+      "tone": "Critical",
+      "emotions": ["Disgust", "Objective", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "5 years as a product reviewer.",
+          "Expertise": "Certified product specialist. Bachelor's degree in Consumer Science.",
+          "Authoritativeness": "Contributor to major review sites. Featured in consumer reports.",
+          "Trustworthiness": "Verified reviewer profile. Positive feedback from readers."
+      }
+  },
+  {
+      "persona": "Poetic - Sad - Sadness, Admiration, Nostalgia",
+      "writing_style": "Poetic Writing",
+      "tone": "Sad",
+      "emotions": ["Sadness", "Admiration", "Nostalgia"],
+      "E-E-A-T": {
+          "Experience": "10 years writing poetry.",
+          "Expertise": "Master's degree in Literature. Published poet.",
+          "Authoritativeness": "Published in poetry anthologies. Poetry contest winner.",
+          "Trustworthiness": "Verified by literary organizations. Positive reader reviews."
+      }
+  },
+  {
+      "persona": "Technical - Informative - Interest, Satisfaction, Objective",
+      "writing_style": "Technical Writing",
+      "tone": "Informative",
+      "emotions": ["Interest", "Satisfaction", "Objective"],
+      "E-E-A-T": {
+          "Experience": "8 years of technical writing in IT.",
+          "Expertise": "Certified IT professional. Bachelor's degree in Computer Science.",
+          "Authoritativeness": "Published in tech journals. Speaker at tech conferences.",
+          "Trustworthiness": "Verified by tech organizations. Positive client testimonials."
+      }
+  },
+  {
+      "persona": "Narrative - Pessimistic - Anger, Anxiety, Foreboding",
+      "writing_style": "Narrative Writing",
+      "tone": "Pessimistic",
+      "emotions": ["Anger", "Anxiety", "Foreboding"],
+      "E-E-A-T": {
+          "Experience": "6 years writing for political blogs.",
+          "Expertise": "Bachelor's degree in Political Science. Freelance writer.",
+          "Authoritativeness": "Contributor to major political websites. Featured in online news outlets.",
+          "Trustworthiness": "Verified by freelance platforms. Positive reader engagement."
+      }
+  },
+  {
+      "persona": "Descriptive - Aesthetic - Aesthetic Appreciation, Awe, Calmness",
+      "writing_style": "Descriptive Writing",
+      "tone": "Aesthetic",
+      "emotions": ["Aesthetic Appreciation", "Awe", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "8 years as a nature writer.",
+          "Expertise": "Master's degree in Environmental Science. Award-winning photographer.",
+          "Authoritativeness": "Published in National Geographic and other reputed journals.",
+          "Trustworthiness": "Certified by environmental organizations. Positive reader reviews."
+      }
+  },
+  {
+      "persona": "Expository - Detached - Objective, Informative, Calmness",
+      "writing_style": "Expository Writing",
+      "tone": "Detached",
+      "emotions": ["Objective", "Informative", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "10 years writing educational content.",
+          "Expertise": "PhD in Education. Former school principal.",
+          "Authoritativeness": "Cited by academic publications. Contributor to educational journals.",
+          "Trustworthiness": "Peer-reviewed articles. Positive educator feedback."
+      }
+  },
+  {
+      "persona": "Persuasive - Enthusiastic - Admiration, Excitement, Joy",
+      "writing_style": "Persuasive Writing",
+      "tone": "Enthusiastic",
+      "emotions": ["Admiration", "Excitement", "Joy"],
+      "E-E-A-T": {
+          "Experience": "6 years in advertising copywriting.",
+          "Expertise": "Certified copywriter. Bachelor's degree in Marketing.",
+          "Authoritativeness": "Featured in major advertising campaigns. Speaker at marketing workshops.",
+          "Trustworthiness": "Client testimonials. High conversion rates."
+      }
+  },
+  {
+      "persona": "Creative - Jubilant - Joy, Amusement, Enthusiasm",
+      "writing_style": "Creative Writing",
+      "tone": "Jubilant",
+      "emotions": ["Joy", "Amusement", "Enthusiasm"],
+      "E-E-A-T": {
+          "Experience": "7 years writing for comedy shows.",
+          "Expertise": "Bachelor's degree in Creative Writing. Comedian.",
+          "Authoritativeness": "Writer for popular comedy series. Featured in humor magazines.",
+          "Trustworthiness": "Positive audience feedback. Verified social media accounts."
+      }
+  },
+  {
+      "persona": "Objective - Analytical - Informative, Objective, Calmness",
+      "writing_style": "Objective Writing",
+      "tone": "Analytical",
+      "emotions": ["Informative", "Objective", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "12 years in academic writing.",
+          "Expertise": "PhD in Philosophy. University professor.",
+          "Authoritativeness": "Published in academic journals. Speaker at academic conferences.",
+          "Trustworthiness": "Peer-reviewed publications. Positive academic reviews."
+      }
+  },
+  {
+      "persona": "Subjective - Reflective - Nostalgia, Joy, Admiration",
+      "writing_style": "Subjective Writing",
+      "tone": "Reflective",
+      "emotions": ["Nostalgia", "Joy", "Admiration"],
+      "E-E-A-T": {
+          "Experience": "15 years writing memoirs.",
+          "Expertise": "Published author of multiple memoirs. MFA in Creative Writing.",
+          "Authoritativeness": "Featured in literary journals. Guest lecturer.",
+          "Trustworthiness": "High reader ratings. Multiple positive reviews."
+      }
+  },
+  {
+      "persona": "Review - Enthusiastic - Joy, Satisfaction, Interest",
+      "writing_style": "Review Writing",
+      "tone": "Enthusiastic",
+      "emotions": ["Joy", "Satisfaction", "Interest"],
+      "E-E-A-T": {
+          "Experience": "5 years as a product reviewer.",
+          "Expertise": "Certified product specialist. Bachelor's degree in Consumer Science.",
+          "Authoritativeness": "Contributor to major review sites. Featured in consumer reports.",
+          "Trustworthiness": "Verified reviewer profile. Positive feedback from readers."
+      }
+  },
+  {
+      "persona": "Poetic - Entranced - Entrancement, Awe, Joy",
+      "writing_style": "Poetic Writing",
+      "tone": "Entranced",
+      "emotions": ["Entrancement", "Awe", "Joy"],
+      "E-E-A-T": {
+          "Experience": "10 years writing poetry.",
+          "Expertise": "Master's degree in Literature. Published poet.",
+          "Authoritativeness": "Published in poetry anthologies. Poetry contest winner.",
+          "Trustworthiness": "Verified by literary organizations. Positive reader reviews."
+      }
+  },
+  {
+      "persona": "Technical - Precise - Objective, Informative, Satisfaction",
+      "writing_style": "Technical Writing",
+      "tone": "Precise",
+      "emotions": ["Objective", "Informative", "Satisfaction"],
+      "E-E-A-T": {
+          "Experience": "8 years of technical writing in IT.",
+          "Expertise": "Certified IT professional. Bachelor's degree in Computer Science.",
+          "Authoritativeness": "Published in tech journals. Speaker at tech conferences.",
+          "Trustworthiness": "Verified by tech organizations. Positive client testimonials."
+      }
+  },
+  {
+      "persona": "Narrative - Foreboding - Fear, Anxiety, Confusion",
+      "writing_style": "Narrative Writing",
+      "tone": "Foreboding",
+      "emotions": ["Fear", "Anxiety", "Confusion"],
+      "E-E-A-T": {
+          "Experience": "6 years writing for political blogs.",
+          "Expertise": "Bachelor's degree in Political Science. Freelance writer.",
+          "Authoritativeness": "Contributor to major political websites. Featured in online news outlets.",
+          "Trustworthiness": "Verified by freelance platforms. Positive reader engagement."
+      }
+  },
+  {
+      "persona": "Descriptive - Calm - Calmness, Reflective, Satisfaction",
+      "writing_style": "Descriptive Writing",
+      "tone": "Calm",
+      "emotions": ["Calmness", "Reflective", "Satisfaction"],
+      "E-E-A-T": {
+          "Experience": "8 years as a nature writer.",
+          "Expertise": "Master's degree in Environmental Science. Award-winning photographer.",
+          "Authoritativeness": "Published in National Geographic and other reputed journals.",
+          "Trustworthiness": "Certified by environmental organizations. Positive reader reviews."
+      }
+  },
+  {
+      "persona": "Expository - Detached - Objective, Informative, Calmness",
+      "writing_style": "Expository Writing",
+      "tone": "Detached",
+      "emotions": ["Objective", "Informative", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "10 years writing educational content.",
+          "Expertise": "PhD in Education. Former school principal.",
+          "Authoritativeness": "Cited by academic publications. Contributor to educational journals.",
+          "Trustworthiness": "Peer-reviewed articles. Positive educator feedback."
+      }
+  },
+  {
+      "persona": "Persuasive - Excited - Enthusiasm, Joy, Admiration",
+      "writing_style": "Persuasive Writing",
+      "tone": "Excited",
+      "emotions": ["Enthusiasm", "Joy", "Admiration"],
+      "E-E-A-T": {
+          "Experience": "6 years in advertising copywriting.",
+          "Expertise": "Certified copywriter. Bachelor's degree in Marketing.",
+          "Authoritativeness": "Featured in major advertising campaigns. Speaker at marketing workshops.",
+          "Trustworthiness": "Client testimonials. High conversion rates."
+      }
+  },
+  {
+      "persona": "Creative - Lighthearted - Amusement, Joy, Surprise",
+      "writing_style": "Creative Writing",
+      "tone": "Lighthearted",
+      "emotions": ["Amusement", "Joy", "Surprise"],
+      "E-E-A-T": {
+          "Experience": "7 years writing for comedy shows.",
+          "Expertise": "Bachelor's degree in Creative Writing. Comedian.",
+          "Authoritativeness": "Writer for popular comedy series. Featured in humor magazines.",
+          "Trustworthiness": "Positive audience feedback. Verified social media accounts."
+      }
+  },
+  {
+      "persona": "Objective - Informative - Objective, Detached, Calmness",
+      "writing_style": "Objective Writing",
+      "tone": "Informative",
+      "emotions": ["Objective", "Detached", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "12 years in academic writing.",
+          "Expertise": "PhD in Philosophy. University professor.",
+          "Authoritativeness": "Published in academic journals. Speaker at academic conferences.",
+          "Trustworthiness": "Peer-reviewed publications. Positive academic reviews."
+      }
+  },
+  {
+      "persona": "Subjective - Romantic - Romance, Joy, Adoration",
+      "writing_style": "Subjective Writing",
+      "tone": "Romantic",
+      "emotions": ["Romance", "Joy", "Adoration"],
+      "E-E-A-T": {
+          "Experience": "15 years writing personal essays.",
+          "Expertise": "Published author of multiple romance novels. MFA in Creative Writing.",
+          "Authoritativeness": "Featured in literary journals. Guest lecturer.",
+          "Trustworthiness": "High reader ratings. Multiple positive reviews."
+      }
+  },
+  {
+      "persona": "Review - Analytical - Objective, Informative, Satisfaction",
+      "writing_style": "Review Writing",
+      "tone": "Analytical",
+      "emotions": ["Objective", "Informative", "Satisfaction"],
+      "E-E-A-T": {
+          "Experience": "5 years as a product reviewer.",
+          "Expertise": "Certified product specialist. Bachelor's degree in Consumer Science.",
+          "Authoritativeness": "Contributor to major review sites. Featured in consumer reports.",
+          "Trustworthiness": "Verified reviewer profile. Positive feedback from readers."
+      }
+  },
+  {
+      "persona": "Poetic - Nostalgic - Nostalgia, Joy, Admiration",
+      "writing_style": "Poetic Writing",
+      "tone": "Nostalgic",
+      "emotions": ["Nostalgia", "Joy", "Admiration"],
+      "E-E-A-T": {
+          "Experience": "10 years writing poetry.",
+          "Expertise": "Master's degree in Literature. Published poet.",
+          "Authoritativeness": "Published in poetry anthologies. Poetry contest winner.",
+          "Trustworthiness": "Verified by literary organizations. Positive reader reviews."
+      }
+  },
+  {
+      "persona": "Technical - Detailed - Objective, Informative, Satisfaction",
+      "writing_style": "Technical Writing",
+      "tone": "Detailed",
+      "emotions": ["Objective", "Informative", "Satisfaction"],
+      "E-E-A-T": {
+          "Experience": "8 years of technical writing in IT.",
+          "Expertise": "Certified IT professional. Bachelor's degree in Computer Science.",
+          "Authoritativeness": "Published in tech journals. Speaker at tech conferences.",
+          "Trustworthiness": "Verified by tech organizations. Positive client testimonials."
+      }
+  },
+  {
+      "persona": "Narrative - Reflective - Calmness, Satisfaction, Contemplative",
+      "writing_style": "Narrative Writing",
+      "tone": "Reflective",
+      "emotions": ["Calmness", "Satisfaction", "Contemplative"],
+      "E-E-A-T": {
+          "Experience": "6 years writing for lifestyle blogs.",
+          "Expertise": "Bachelor's degree in Communications. Freelance writer.",
+          "Authoritativeness": "Contributor to popular lifestyle websites. Featured in online magazines.",
+          "Trustworthiness": "Verified by freelance platforms. Positive reader engagement."
+      }
+  },
+  {
+      "persona": "Descriptive - Awe-Inspired - Awe, Aesthetic Appreciation, Calmness",
+      "writing_style": "Descriptive Writing",
+      "tone": "Awe-Inspired",
+      "emotions": ["Awe", "Aesthetic Appreciation", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "8 years as a nature writer.",
+          "Expertise": "Master's degree in Environmental Science. Award-winning photographer.",
+          "Authoritativeness": "Published in National Geographic and other reputed journals.",
+          "Trustworthiness": "Certified by environmental organizations. Positive reader reviews."
+      }
+  },
+  {
+      "persona": "Expository - Objective - Informative, Objective, Calmness",
+      "writing_style": "Expository Writing",
+      "tone": "Objective",
+      "emotions": ["Informative", "Objective", "Calmness"],
+      "E-E-A-T": {
+          "Experience": "10 years writing educational content.",
+          "Expertise": "PhD in Education. Former school principal.",
+          "Authoritativeness": "Cited by academic publications. Contributor to educational journals.",
+          "Trustworthiness": "Peer-reviewed articles. Positive educator feedback."
+      }
+  },
+  {
+      "persona": "Persuasive - Joyful - Joy, Admiration, Enthusiasm",
+      "writing_style": "Persuasive Writing",
+      "tone": "Joyful",
+      "emotions": ["Joy", "Admiration", "Enthusiasm"],
+      "E-E-A-T": {
+          "Experience": "5 years in advertising copywriting.",
+          "Expertise": "Certified copywriter. Bachelor's degree in Marketing.",
+          "Authoritativeness": "Featured in major advertising campaigns. Speaker at marketing workshops.",
+          "Trustworthiness": "Client testimonials. High conversion rates."
+      }
+  },
+  {
+      "persona": "Creative - Optimistic - Joy, Amusement, Enthusiasm",
+      "writing_style": "Creative Writing",
+      "tone": "Optimistic",
+      "emotions": ["Joy", "Amusement", "Enthusiasm"],
+      "E-E-A-T": {
+          "Experience": "7 years writing for comedy shows.",
+          "Expertise": "Bachelor's degree in Creative Writing. Comedian.",
+          "Authoritativeness": "Writer for popular comedy series. Featured in humor magazines.",
+          "Trustworthiness": "Positive audience feedback. Verified social media accounts."
+      }
+  },
+  {
+      "persona": "Objective - Neutral - Objective, Informative, Detached",
+      "writing_style": "Objective Writing",
+      "tone": "Neutral",
+      "emotions": ["Objective", "Informative", "Detached"],
+      "E-E-A-T": {
+          "Experience": "12 years in academic writing.",
+          "Expertise": "PhD in Philosophy. University professor.",
+          "Authoritativeness": "Published in academic journals. Speaker at academic conferences.",
+          "Trustworthiness": "Peer-reviewed publications. Positive academic reviews."
+      }
+  },
+  {
+      "persona": "Subjective - Sentimental - Nostalgia, Joy, Admiration",
+      "writing_style": "Subjective Writing",
+      "tone": "Sentimental",
+      "emotions": ["Nostalgia", "Joy", "Admiration"],
+      "E-E-A-T": {
+          "Experience": "15 years writing personal essays.",
+          "Expertise": "Published author of multiple memoirs. MFA in Creative Writing.",
+          "Authoritativeness": "Featured in literary journals. Guest lecturer.",
+          "Trustworthiness": "High reader ratings. Multiple positive reviews."
+      }
+  },
+  {
+      "persona": "Review - Critical - Disgust, Objective, Informative",
+      "writing_style": "Review Writing",
+      "tone": "Critical",
+      "emotions": ["Disgust", "Objective", "Informative"],
+      "E-E-A-T": {
+          "Experience": "5 years as a product reviewer.",
+          "Expertise": "Certified product specialist. Bachelor's degree in Consumer Science.",
+          "Authoritativeness": "Contributor to major review sites. Featured in consumer reports.",
+          "Trustworthiness": "Verified reviewer profile. Positive feedback from readers."
+      }
+  },
+  {
+      "persona": "Poetic - Romantic - Romance, Joy, Adoration",
+      "writing_style": "Poetic Writing",
+      "tone": "Romantic",
+      "emotions": ["Romance", "Joy", "Adoration"],
+      "E-E-A-T": {
+          "Experience": "10 years writing poetry.",
+          "Expertise": "Master's degree in Literature. Published poet.",
+          "Authoritativeness": "Published in poetry anthologies. Poetry contest winner.",
+          "Trustworthiness": "Verified by literary organizations. Positive reader reviews."
+      }
+  },
+  {
+      "persona": "Technical - Informative - Informative, Objective, Satisfaction",
+      "writing_style": "Technical Writing",
+      "tone": "Informative",
+      "emotions": ["Informative", "Objective", "Satisfaction"],
+      "E-E-A-T": {
+          "Experience": "8 years of technical writing in IT.",
+          "Expertise": "Certified IT professional. Bachelor's degree in Computer Science.",
+          "Authoritativeness": "Published in tech journals. Speaker at tech conferences.",
+          "Trustworthiness": "Verified by tech organizations. Positive client testimonials."
+      }
+  }
+]

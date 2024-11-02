@@ -11,6 +11,20 @@
   margin-bottom: 20px;
 }
 
+
+#post-calendar-tab{
+  height: 100vh;
+}
+.green-up-arrow {
+  color: green;
+  font-size: 20px; /* Adjust the size as needed */
+}
+
+.red-down-arrow {
+  color: red;
+  font-size: 20px; /* Adjust the size as needed */
+}
+
 .nav-tab {
   display: inline-block;
   padding: 10px 10px;
@@ -347,3 +361,126 @@ h2 {
     margin: 15px 0;
     text-align: center;
 }
+
+
+#welcome-screen h1 {
+  color: #333;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+#welcome-screen h2 {
+  color: #0066cc;
+  margin-top: 20px;
+}
+
+#welcome-screen h3 {
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+#welcome-screen ul {
+  margin-left: 20px;
+  list-style-type: disc;
+}
+
+#welcome-screen p {
+  font-size: 1em;
+  color: #555;
+}
+
+#welcome-screen a {
+  color: #0066cc;
+  text-decoration: underline;
+}
+
+#welcome-screen .video-container {
+  margin-top: 20px;
+}
+
+            /* Fancy UI Styling */
+            .gsc-fancy-button {
+                background-color: #28a745;
+                color: white;
+                border: none;
+                padding: 10px 20px;
+                border-radius: 25px;
+                font-size: 16px;
+                cursor: pointer;
+                transition: background-color 0.3s ease;
+            }
+
+            .gsc-fancy-button:hover {
+                background-color: #218838;
+            }
+
+            .gsc-styled-select {
+                padding: 10px;
+                font-size: 16px;
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                margin-bottom: 20px;
+            }
+
+            .gsc-fancy-label {
+                margin-right: 10px;
+                font-size: 16px;
+                color: #333;
+            }
+
+            .gsc-fancy-input {
+                padding: 8px;
+                font-size: 14px;
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                margin: 5px 10px;
+            }
+
+            /* Table Styling */
+            .gsc-fancy-table-container {
+                margin-top: 20px;
+            }
+
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin: 25px 0;
+                font-size: 16px;
+                font-family: 'Arial', sans-serif;
+                border: 1px solid #ddd;
+                box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            }
+
+            th,
+            td {
+                padding: 12px 15px;
+                text-align: left;
+                border-bottom: 1px solid #ddd;
+            }
+
+            th {
+                background-color: #f2f2f2;
+                color: #333;
+                font-weight: bold;
+            }
+
+            tr {
+                transition: background-color 0.3s ease;
+            }
+
+            tr:hover {
+                background-color: #f9f9f9;
+            }
+
+            h3 {
+                font-size: 22px;
+                color: #333;
+                font-weight: 600;
+                border-bottom: 2px solid #ddd;
+                padding-bottom: 5px;
+                margin-bottom: 15px;
+            }
+
+            .gsc-analytics-section {
+                margin-top: 15px;
+            }
